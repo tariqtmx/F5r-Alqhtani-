@@ -1,6 +1,6 @@
-token=NDgxNjE3ODkzNTkxODc1NTk1.Dq2awg.BdKntGwTuluESeZ1FSfslqCnyu4
-owner=464046823162511400
-prefix=T
-game=ستفقدني كثيراً اعدك بذلك .
+token=NTI5NDYxODM1Njk5ODQ3MTc5.DwxLRw.KSAXz0jT0mnR7akujWyNudystrg
+owner=327092642108145673
+prefix=F
+game=
 stayinchannel=true
 songinstatus=false
